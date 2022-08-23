@@ -5,4 +5,4 @@ This is a sample readme
 * test
 * 112
 ## Link Example
-[codeTime](leetcode.com)
+[codeTime](www.leetcode.com)
