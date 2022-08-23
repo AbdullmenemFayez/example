@@ -6,3 +6,4 @@ This is a sample readme
 * 112
 ## Link Example
 [Leetcode](https://leetcode.com/)
+<a href="www.leetcode.com">leetcode</a>
