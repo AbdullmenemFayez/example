@@ -6,5 +6,5 @@ This is a sample readme
 * 112
 ## Link Example
 [Leetcode](https://leetcode.com/)
-<p><<a href="https://www.leetcode.com">leetcode</a>/p>
+<p><a href="https://www.leetcode.com">leetcode</a></p>
 
